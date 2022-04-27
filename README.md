@@ -43,7 +43,7 @@ $ cd Simple-ID
  $ python run.py
  ```
 #### ⇨  Screenshot
-![Premium Dapunta (1)](https://github.com/Rj-Basalamah/Rumus/blob/main/Logopit_1650476560782.jpg)
+![Premium Dapunta (1)](https://github.com/Rj-Basalamah/Rumus/blob/main/Screenshot_2022-04-27-06-49-57-724_com.termux.jpg)
 ##### MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Rj-Basalamah) 
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/r_kecil)
