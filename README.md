@@ -12,15 +12,15 @@ Author : Abdur Ro'uf
 ```
 #### Fitures
 ```
-╭────────────────────── [ Perlu di ingat ] ────────────────────╮
-│ ╭───────────────────────────────────────────────────────╮ │
+╭────────────────────── [ Perlu di ingat ] ────────────────╮
+│ ╭───────────────────────────────────────────────────╮ │
 │ │ Script ini hanya menggunakan Dump ID publik dan            │ │
 │ │ menggunakan methode https://mbasic.facebook.com, jadi      │ │
 │ │ tidak ada opsi. hanya saja anda bisa menambahkan kata      │ │
 │ │ sandi. Sehingga anda hanya memasukkan ID target dan sandi  │ │
 │ │ tambahan.                                                  │ │
-│ ╰───────────────────────────────────────────────────────╯ │
-╰─ [ Simple itu mudah ] ───────────────────────────────────────╯
+│ ╰───────────────────────────────────────────────────╯ │
+╰─ [ Simple itu mudah ] ───────────────────────────────────╯
 ```
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [disini](https://f-droid.org/repo/com.termux_118.apk)
